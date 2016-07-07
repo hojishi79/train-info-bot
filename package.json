@@ -9,6 +9,7 @@
   "author": "koike_sh",
   "license": "ISC",
   "dependencies": {
-    "cheerio-httpcli": "^0.6.8"
+    "cheerio-httpcli": "^0.6.8",
+    "request-promise": "^3.0.0"
   }
 }
